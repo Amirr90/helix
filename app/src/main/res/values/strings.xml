@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HELIX</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="sign_in_with_title">sign in with facebook</string>
+    <string name="sign_in_with_google">sign in with google</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="dont_have_an_account">Don\'t have an account? Sign Up</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="already_have_an_account">Already have an account? Sign In</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
